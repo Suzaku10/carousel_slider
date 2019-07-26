@@ -8,7 +8,7 @@ This is a Carousel with dot indicator or page number.
 
 
 First, add `carousel_slider` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/).
-![alt text](https://ibb.co/fvZwGJ6 "Example")
+![alt text](https://github.com/Suzaku10/carousel_slider/blob/master/image_sample/Screenshot_1564128434.png "Example")
 ```
 carousel_slider: ^0.1.0
 ```
